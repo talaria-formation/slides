@@ -2,6 +2,6 @@
 
 .Slides
 * link:https://talaria-formation.github.io/slides/asciidoc-capsule-prepro-cda-deck.html[asciidoc-capsule-prepro-cda,window=_blank]
-* link:https://talaria-formation.github.io/slides/example-deck.html[example]
+* link:https://talaria-formation.github.io/slides/example-deck.html[example,window=read-later]
 * link:https://talaria-formation.github.io/slides/informatisation-prepro-cda-deck.html[informatisation-prepro-cda]
 * link:https://talaria-formation.github.io/slides/prepro-cda_m1-p1-s1-s1_deck.html[prepro-cda_m1-p1-s1-s1]
